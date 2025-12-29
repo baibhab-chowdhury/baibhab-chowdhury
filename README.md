@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**baibhab-chowdhury/baibhab-chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Master’s student in Data Science with a strong foundation in statistics, probability, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently building end-to-end data science projects involving data cleaning, exploratory data analysis, statistical inference, and predictive modeling.
+
+### Tools & Technologies
+- Python (pandas, numpy, matplotlib, scikit-learn)
+- SQL
+- Statistics & Probability
+- Machine Learning
+
