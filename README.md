@@ -11,4 +11,4 @@ I am currently building end-to-end data science projects involving data cleaning
 - SQL
 - Statistics & Probability
 - Machine Learning
-
+- Deep Learning
